@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding= 'UTF-8' standalone="no" ?>
+
+<!-- external css -->
+<?xml-stylesheet type="text/css" href="catalog_19030716.css"?>
+
+<!-- DTD-->
+<!DOCTYPE MusicStore SYSTEM "catalog_19030716.dtd"[]>
+
+<!-- Schema -->
+<MusicStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+			
+xsi:noNamespaceSchemaLocation="catalog_19030716.xsd">
+
+    <!--Store Details-->
+    <StoreInfo>
+        <Logo logoID="l01"></Logo>
+        <StoreName>RG Sounds</StoreName>
+        <Address>MadhyapurThimi, Bhaktapur</Address>
+        <Contact>9841562310</Contact>
+        <Website>https://rgsoundsstore.com</Website>
+    </StoreInfo> 
+
+    <!-- Music Details-->
+    <Music>
+        <Category>Songs</Category>
+        <Song SongID="a01">
+            <name>Runaway</name>
+            <image imgID='i01'></image>
+            <genre>Genre: Pop</genre>
+            <album>Album: All My Demons Greeting Me as a Friend</album>
+            <length>Length: 04:13</length>
+            <releasedate>Release date: 7th Feb 2015</releasedate>
+            <singers>
+                <title>Singers</title>
+                <singer>Billien Eillish</singer>
+                </singers>
+            <RecordedBy>Recorded By: Decca Records</RecordedBy>
+            <SongWriters>
+                <swTitle>Writers</swTitle>
+                <writer>AURORA,</writer>
+                <writer>Magnus Skylstad</writer>
+            </SongWriters>
+            <SongProducers>
+            <pTitle>Producers</pTitle>
+            <producers>Odd Martin Skalnes,</producers>
+            <producers>Magnus Skylstad</producers>
+            </SongProducers>
+        </Song>
+
+        <Song SongID="a02">
+            <name>Play Date</name>
+            <image imgID='i02'></image>
+            <genre>Genre: Pop</genre>
+            <album>Album: Cry Baby</album>
+            <length>Length: 02:59</length>
+            <releasedate>Release Date: 14th Aug 2015</releasedate>
+            <singers>
+                <title>Singers</title>
+                <singer>Melanie Martinez</singer>
+                </singers>
+            <RecordedBy>Recorded By: Recording Industry Association of America</RecordedBy>
+            <SongWriters>
+                <swTitle>Writers</swTitle>
+                <writer>Melanie Martinez,</writer>
+                <writer>Jennifer Decilveo</writer>
+            </SongWriters>
+            <SongProducers>
+            <pTitle>Producers</pTitle>
+            <producers>Micheal Keenan,</producers>
+            <producers>Jennifer Decilveo</producers>
+            </SongProducers>
+        </Song>
+
+        <Song SongID="a03">
+            <name>Badliar</name>
+            <image imgID='i03'></image>
+            <genre>Genre: Pop</genre>
+            <album>Album: Origins</album>
+            <length>Length: 04:20</length>
+            <releasedate>Release Date: 6th Nov 2018</releasedate>
+            <singers>
+                <title>Singers</title>
+                <singer>Dan Reynolds</singer>
+                </singers>
+            <RecordedBy>Recorded By: Interscope and Kidinakorner</RecordedBy>
+            <SongWriters>
+                <swTitle>Writers</swTitle>
+                <writer>Imagine Dragons,</writer>
+                <writer>Aja Volkman</writer>
+            </SongWriters>
+            <SongProducers>
+            <pTitle>Producers</pTitle>
+            <producers>Jorgen Odegard</producers>
+            </SongProducers>
+        </Song>
+
+        <Song SongID="a04">
+            <name>Believer</name>
+            <image imgID='i04'></image>
+            <genre>Genre: Rock</genre>
+            <album>Album: Evolve</album>
+            <length>Length: 03:24</length>
+            <releasedate>Release Date: 1st Feb 2017</releasedate>
+            <singers>
+                <title>Singers</title>
+                <singer>Imagine Dragons(Band)</singer>
+                </singers>
+            <RecordedBy>Recorded By: Interscope and Kidinakorner</RecordedBy>
+            <SongWriters>
+                <swTitle>Writers</swTitle>
+                <writer>Dan Reynolds,</writer>
+                <writer>Wayne Sermon,</writer>
+                <writer>Ben McKee,</writer>
+                <writer>Daniel Platzman,</writer>
+                <writer>Justin Tranter</writer>
+            </SongWriters>
+            <SongProducers>
+            <pTitle>Producers</pTitle>
+            <producers>Mattman and Robin</producers>
+            </SongProducers>
+        </Song>
+
+        <Song SongID="a05">
+            <name>Shape of You</name>
+            <image imgID='i05'></image>
+            <genre>Genre: Pop</genre>
+            <album>Album: ÷ </album>
+            <length>Length: 03:53</length>
+            <releasedate>Release Date: 6th Jan 2017</releasedate>
+            <singers>
+                <title>Singers</title>
+                <singer>Ed Sheeran</singer>
+                </singers>
+            <RecordedBy>Recorded By: Asylum and Atlantic</RecordedBy>
+            <SongWriters>
+                <swTitle>Writers</swTitle>
+                <writer>Ed Sheeran,</writer>
+                <writer>Steve Mac,</writer>
+                <writer>Johnny McDaid,</writer>
+                <writer>Kandi Burruss,</writer>
+                <writer>Kevin Briggs</writer>
+            </SongWriters>
+            <SongProducers>
+            <pTitle>Producers</pTitle>
+            <producers>Ed Sheeran,</producers>
+            <producers>Steve Mac</producers>
+            </SongProducers>
+        </Song>
+
+        <Song SongID="a06">
+            <name>Despacito</name>
+            <image imgID='i06'></image>
+            <genre>Genre: Electronic Dance Music</genre>
+            <album>Album: Vida</album>
+            <length>Length: 03:47</length>
+            <releasedate>Release Date: 12th Jan 2017</releasedate>
+            <singers>
+                <title>Singers</title>
+                <singer>Luis Fonsi and Daddy Yankee</singer>
+                </singers>
+            <RecordedBy>Recorded By: Universal Latin</RecordedBy>
+            <SongWriters>
+                <swTitle>Writers</swTitle>
+                <writer>Luis Rodriguez,</writer>
+                <writer>Erika Ender,</writer>
+                <writer>Ramon Ayala</writer>
+            </SongWriters>
+            <SongProducers>
+            <pTitle>Producers</pTitle>
+            <producers>Mauricio Rengifo,</producers>
+            <producers>Andres Torres</producers>
+            </SongProducers>
+        </Song>
+
+        <Song SongID="a07">
+            <name>Lovely</name>
+            <image imgID='i07'></image>
+            <genre>Genre: Pop</genre>
+            <album>Album: 13 Reasons Why:S2</album>
+            <length>Length: 03:20</length>
+            <releasedate>Release Date: 19th Apr 2018</releasedate>
+            <singers>
+                <title>Singers</title>
+                <singer>Billie Eillish and Khalid</singer>
+                </singers>
+            <RecordedBy>Recorded By: Darkroom and Interscope</RecordedBy>
+            <SongWriters>
+                <swTitle>Writers</swTitle>
+                <writer>Billie Eilish O'Connell,</writer>
+                <writer>Finneas O'Connell,</writer>
+                <writer>Khalid Robinson</writer>
+            </SongWriters>
+            <SongProducers>
+            <pTitle>Producers</pTitle>
+            <producers>	Finneas O'Connell</producers>
+            </SongProducers>
+        </Song>
+
+        <Song SongID="a08">
+            <name>See You Again</name>
+            <image imgID='i08'></image>
+            <genre>Genre: Rock</genre>
+            <album>Album: Nine Track Mind</album>
+            <length>Length: 03:49</length>
+            <releasedate>Release Date: 10th Mar 2015</releasedate>
+            <singers>
+                <title>Singers</title>
+                <singer>Wiz Khalifa and Charlie Puth</singer>
+                </singers>
+            <RecordedBy>Recorded By: Atlantic</RecordedBy>
+            <SongWriters>
+                <swTitle>Writers</swTitle>
+                <writer>Charlie Puth,</writer>
+                <writer>Cameron Thomaz,</writer>
+                <writer>Andrew Cedar,</writer>
+                <writer>Dann Hume,</writer>
+                <writer>Josh Hardy</writer>
+            </SongWriters>
+            <SongProducers>
+            <pTitle>Producer: </pTitle>
+            <producers>DJ FrankE,</producers>
+            <producers>Charlie Puth,</producers>
+            <producers>Andrew Cedar</producers>
+            </SongProducers>
+        </Song>
+
+        <Song SongID="a09">
+            <name>Let Her Go</name>
+            <image imgID='i09'></image>
+            <genre>Genre: Rock</genre>
+            <album>Album: All the Little Lights</album>
+            <length>Length: 04:12</length>
+            <releasedate>Release Date: 24th July 2012</releasedate>
+            <singers>
+                <title>Singers</title>
+                <singer>Passengers</singer>
+                </singers>
+            <RecordedBy>Recorded By: Nettwerk</RecordedBy>
+            <SongWriters>
+                <swTitle>Writers</swTitle>
+                <writer>Mike Rosenberg</writer>
+            </SongWriters>
+            <SongProducers>
+            <pTitle>Producer: </pTitle>
+            <producers>Mike Rosenberg,</producers>
+            <producers>Chris Vallejo</producers>
+            </SongProducers>
+        </Song>
+
+            <Song SongID="a10">
+            <name>Counting Stars</name>
+            <image imgID='i10'></image>
+            <genre>Genre: Rock</genre>
+            <album>Album: Native</album>
+            <length>Length: 04:19</length>
+            <releasedate>Release Date: 14th June 2013</releasedate>
+            <singers>
+                <title>Singers</title>
+                <singer>One Republic</singer>
+                </singers>
+            <RecordedBy>Recorded By: Interscope</RecordedBy>
+            <SongWriters>
+                <swTitle>Writers</swTitle>
+                <writer>Ryan Tedder</writer>
+            </SongWriters>
+            <SongProducers>
+            <pTitle>Producer: </pTitle>
+            <producers>Ryan Tedder,</producers>
+            <producers>Noel Zancanella</producers>
+            </SongProducers>
+        </Song>
+
+            <Song SongID="a11">
+            <name>Sunflower</name>
+            <image imgID='i11'></image>
+            <genre>Genre: Pop</genre>
+            <album>Album: SpiderMan</album>
+            <length>Length: 02:38</length>
+            <releasedate>Release Date: 18th Oct 2018</releasedate>
+            <singers>
+                <title>Singers</title>
+                <singer>Post Malone,</singer>
+                <singer>Swae Lee</singer>
+                </singers>
+            <RecordedBy>Recorded By: Republic</RecordedBy>
+            <SongWriters>
+                <swTitle>Writers</swTitle>
+                <writer>Austin Post,</writer>
+                <writer>Khalif Brown,</writer>
+                <writer>Carter Lang,</writer>
+                <writer>Carl Rosen,</writer>
+                <writer>Billy Walsh</writer>
+            </SongWriters>
+            <SongProducers>
+            <pTitle>Producer: </pTitle>
+            <producers>Carter Lang,</producers>
+            <producers>Louis Bell</producers>
+            </SongProducers>
+        </Song>
+
+        <Song SongID="a12">
+            <name>Duck Till Dawn</name>
+            <image imgID='i12'></image>
+            <genre>Genre: Pop</genre>
+            <album>Album: Icarus Falls</album>
+            <length>Length: 04:27</length>
+            <releasedate>Release Date: 8th Sept 2017</releasedate>
+            <singers>
+                <title>Singers</title>
+                <singer>Zayn Malik,</singer>
+                <singer>Sia Furler</singer>
+                </singers>
+            <RecordedBy>Recorded By: RCA Records</RecordedBy>
+            <SongWriters>
+                <swTitle>Writers</swTitle>
+                <writer>Zayn Malik,</writer>
+                <writer>Sia Furler,</writer>
+                <writer>Alex Oriet,</writer>
+                <writer>David Phelan,</writer>
+                <writer>Greg Kurstin</writer>
+            </SongWriters>
+            <SongProducers>
+            <pTitle>Producer: </pTitle>
+            <producers>Greg Kurstin</producers>
+            </SongProducers>
+        </Song>
+    </Music>
+    </MusicStore>
